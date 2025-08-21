@@ -1,15 +1,11 @@
-# Teorias Numeradas
+Crackslatinos es una comunidad de mas de 20 años de existencia.
 
-Dado que la perdida de informacion en nuestro mundo es bastante comun dedici empezar a subir material que realmente seria una pena que se pierda.
-Parte de ese proyectofue hacer este mirror de las "teorias numeradas" subidas al sitio de Ricardo Narvaja y al grupo de CrackLatinos.
-
-Para los archivos que piden contraseña la misma es "a"
+Ricardo Narvaja es quien ha hecho una serie de tutoriales para aprender de estas skills, para que no se pierda de un dia a otro, decidi respaldar.
 
 
-## Instalación
+el sitio es https://ricardonarvaja.info/  
+y bueno, aquí respaldaré con la limitante que github no permite subir sobre 100mb de forma directa, asi que usaré winrar para esa compresión.
 
-Puede clonar el repo con [git](https://git-scm.com/download/win) o simplemente bajarlo desde descargar.
-
-```bash
-git clone https://github.com/indetectables-net/toolkit
-```
+Saludos
+Apuromafo.
+ 
