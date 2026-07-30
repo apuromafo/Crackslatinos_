@@ -1,0 +1,420 @@
+/*
+*
+* Hoja de estilos principal de NAVE
+*
+*/
+
+
+
+/*
+* Estilos que se aplican a elementos gen?ricos
+*/
+
+a {
+ color: #039;
+ background-color: transparent;
+ text-decoration : none;
+}
+
+a:visited {
+ color: #839;
+ background-color: transparent;
+ text-decoration : none;
+}
+
+a:hover {
+ text-decoration: underline;
+}
+
+big {
+ font-size: 1.25em;
+}
+
+body {
+ color: #000;
+ background : #fff;
+ font-family : Verdana,Lucida,sans-serif;
+ font-size: 12px;
+}
+
+td {
+ font-size: small;
+ font-weight: bold;
+}
+
+
+/*
+* Estilos del dise?o general de la p?gina
+*/
+
+/* Dise?o de la cabecera (id="titular") */
+
+#titular {
+ background-color: #eee;
+ color: #000;
+ border: 1px solid #999;
+ position: relative;
+ margin-bottom: 1em;
+}
+
+#titular h1 {
+ background-color: #039;
+ color: #fff;
+ font-size: 1.8em;
+ margin: 0;
+ padding: 0.2em;
+}
+
+#titular h2 {
+ font-size: 1.2em;
+ margin: 0;
+ padding: 0.2em;
+}
+
+
+/* Dise?o del men? (id="menu") */
+
+#menu {
+ width: 20%;
+ margin: 0 12px 12px 0;
+ float: left;
+ background-color: #eee;
+ color: #000;
+ border: 1px solid #999;
+}
+
+#menu h4 {
+ background-color: #dcdcdc;
+ color: #000;
+ margin: 0;
+ padding: 0.2em;
+ border-width: 0;
+}
+
+#menu ul {
+ margin: 0.2em 1em 0.2em 1em;
+ padding: 0;
+}
+
+
+#menu li {
+ list-style: none;
+ padding: 0.2em;
+}
+
+
+/* Item de men? */
+#menu li a {
+ font-weight: bold;
+ color: #039;
+ background-color: transparent;
+/* margin: 0.4em 0 0.4em 0.2em;*/
+ text-decoration : none;
+}
+
+#menu a img {
+ border:0
+}
+
+/* Item de men? de segundo nivel */
+#menu ul ul {
+ font-size: 90%;
+}
+/* Mayores del segundo nivel */
+#menu ul ul ul {
+ font-size: 100%;
+}
+
+#menu a:visited {
+ color: #839;
+ background-color: transparent;
+ text-decoration : none;
+}
+
+#menu a:hover {
+ text-decoration: underline;
+}
+
+#menu abbr {
+ text-decoration : none;
+}
+
+
+/* Dise?o del cuerpo principal de la p?gina (id="cuerpo") */
+
+#cuerpo {
+ margin-bottom: 1em;
+ margin-left: 22%;
+}
+
+#cuerpo h4 {
+ background-color: #ccf;
+ color: #000;
+ border: 1px solid #999;
+ margin: 0 0 0 0em;
+ padding: 0.4em;
+}
+#cuerpo h4 a {
+	color: Black;
+}
+
+#cuerpo h5 {
+ background-color: #dcdcdc;
+ color: #000;
+ margin: 1em 0 0 0em;
+ padding: 0.3em;
+}
+
+#cuerpo h4.simple {
+       background-color: inherit;
+       color: #000;
+       border: 0px;
+       margin-left: 20px;
+}
+
+
+/* Dise?o del pie de p?gina (id="pie") */
+
+#pie {
+ clear: both;
+ border: 1px solid #999;
+ font-size: 0.8em;
+}
+
+#pie #copy {
+ float: left;
+ width: 45%;
+ border-right: 1px solid #999;
+ text-align: center;
+ padding: 0.2em;
+}
+
+#pie #contacta {
+ float: left;
+ width: 10%;
+ border-right: 1px solid #999;
+ text-align: center;
+ padding: 0.2em;
+}
+
+#pie #ultimaActualizacion {
+ text-align: center;
+ padding: 0.2em;
+}
+
+
+
+/* Estilos que se aplican a una clase independiente */
+
+.mensaje {
+ overflow: auto;
+ border: solid #000 1px;
+ background: #dcc;
+ font-family: serif;
+ font-size: 12px;
+ padding: 6px;
+}
+
+.aviso {
+ border-left: 2px #d2e4f7 solid;
+ border-top: 2px #d2e4f7 solid;
+ border-right: 2px #6d7fc4 solid;
+ border-bottom: 2px #6d7fc4 solid;
+ background-color: red;
+ text-align: center;
+ font-weight: bold;
+ color: white;
+ padding: 0.2em;
+ padding-top: 1em;
+ padding-bottom: 1em;
+}
+
+div.noticias > p {
+ border: 2px #FFB583 solid;
+ padding: 4px;
+ background-color: #FFD68A;
+}
+
+div.producto {
+ margin-left: 12px;
+}
+
+#logo img {
+ float: left;
+ margin: 0em 1em 1em 0em;
+}
+
+
+
+/*
+* Estilos que se aplican a elementos pertenecientes a una clase espec?fica
+*/
+
+/* lista_colaborades: lista de colaboradores en contacta/nosotros.php */
+
+*.lista_colaboradores {
+ margin: 0;
+ padding: 0;
+}
+
+dl.lista_colaboradores {
+ margin-top: 2em;
+ display: block;
+ list-style-type: disc;
+}
+
+dl.lista_colaboradores dt {
+ display: list-item;
+ margin-left: 2em;
+ font-size: 1.2em;
+ font-weight: bold;
+}
+
+dl.lista_colaboradores dd {
+ margin-left: 4em;
+ margin-bottom: 2em;
+ font-size: 1.2em;
+}
+
+
+/* Descargas: clase para la tabla de descargas de productos/descargas.php */
+
+table.Descargas {
+ width: 100%;
+ text-align: center;
+ border-collapse: collapse;
+ border-top: 1px solid;
+ border-bottom: 1px solid;
+ border-left: 0px solid;
+ border-right: 0px solid;
+}
+
+table.Descargas td {
+ padding-top: 0.25em;
+ font-size: 10px;
+}
+
+table.Descargas th {
+ border: 1px solid;
+ background-color: #ddf;
+ color: #000;
+ font-size: 12px;
+}
+
+table.Descargas tr {
+ vertical-align: top;
+ border-bottom: 1px solid;
+ font-size: 6em;
+}
+
+
+/* Descargas: clase para la lista de descargas de productos/descargas3.php (pruebas) */
+
+dl.Descargas > dt {
+ font-weight: inherit;
+ font-size: 0.9em;
+ padding-top: 1.5em;
+}
+
+dl.Descargas > dt a {
+ font-size: 1.4em;
+ font-weight: bold;
+}
+
+dl.Descargas > dt img {
+ border-style: solid;
+ border-width: 0px;
+ width: 32px;
+ height: 32px;
+ vertical-align: middle;
+ margin-right: 1em;
+}
+
+dl.Descargas > dd {
+ margin-top: 0em;
+ padding-top: 0em;
+ top: 0em;
+}
+
+
+/* alerta: recuadros con informaci?n importante; incluye las noticias urgentes
+          y los avisos est?ticos importantes
+*/
+
+P.alerta {
+ border-left: 2px #f9cd04 solid;
+ border-top: 2px #f9cd04 solid;
+ border-right: 2px #aa8238 solid;
+ border-bottom: 2px #aa8238 solid;
+ background-color: #dd9900;
+ text-align: center;
+ color: #000;
+ margin: 1em;
+ padding: 0.2em;
+}
+
+p.alerta:before {
+ content: url('./advertencia.png') " ";
+}
+
+
+/* info: recuadros con informaci?n normal; incluye las noticias normales
+        y los avisos est?ticos normales, como en productos/descargas.php
+*/
+
+P.info {
+ border-left: 2px #d2e4f7 solid;
+ border-top: 2px #d2e4f7 solid;
+ border-right: 2px #6d7fc4 solid;
+ border-bottom: 2px #6d7fc4 solid;
+ background-color: #6db3ff;
+ text-align: center;
+ font-weight: bold;
+ color: #000;
+ margin: 1em;
+ padding: 0.2em;
+}
+
+p.info:before {
+ content: url('./info.png') " ";
+}
+
+
+/* extensiones: formulario de contacto para las extensiones traducidas */
+
+form.extensiones select {
+ width: 20em;
+ margin-top: 1.5em;
+}
+
+form.extensiones img {
+ height: 22px;
+}
+
+
+/* capturas: colecci?n de instant?neas de pantallas */
+
+.capturas img {
+ display:block;
+ margin: 1em auto 1em auto;
+} 
+ 
+
+/* Secci?n de documentaci?n */
+
+#documentacion {
+	/-border: 1px solid red;*/
+}
+#documentacion  h3 {
+	border: 1px solid #999999;
+	padding: 0.2em;
+	background-color: #CCCCFF;
+}
+#documentacion  h4 {
+	background-color: #DCDCDC;
+}
+
+#documentacion  h5 {
+	border: 1px solid #DCDCDC;
+	background-color: transparent;
+}
