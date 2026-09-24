@@ -15,29 +15,31 @@ Crackslatinos es una comunidad de más de 20 años de existencia. Ricardo Narvaj
 
 ## Cursos y contenido
 
+Todas las carpetas son enlaces: hacen clic y entran directo al curso, sin salir del repositorio.
+
 | Directorio | Contenido |
 |---|---|
-| `ANDROID REVERSING/` | Reversing en Android |
-| `C++ DESDE CERO/` | Curso de C++ desde cero |
-| `C Y REVERSING/` | Curso de C y reversing |
-| `CRACKING PARA BEBES POR IVINSON/` | Cracking para principiantes por Ivinson |
-| `CURSO DE ARM EXPLOIT/` | Exploiting en ARM |
-| `CURSO DE YOUTUBE ARCHIVOS NECESARIOS/` | Archivos para los videos de YouTube |
-| `CURSO REVERSING 2020/` | Curso de reversing 2020 |
-| `CURSO VIEJO/` | Cursos anteriores |
-| `DEBUGGERS PARA LOS NUEVOS WINDOWS 32 Y 64 BITS/` | Debuggers para Windows |
-| `EJERCICIOS VIDEOS/` | Ejercicios de los videos |
-| `Ejercicios_solos/` | Ejercicios sueltos (ZIP pass: `a`) |
-| `EXPLOITING/` | Exploiting |
-| `EXPLOITING Y REVERSING USANDO HERRAMIENTAS FREE/` | Exploiting y reversing con herramientas gratuitas |
-| `IDA DESDE CERO/` | Curso de IDA Pro desde cero |
-| `INTRODUCCION AL CRACKING CON OLLYDBG DESDE CERO/` | Cracking con OllyDbg |
-| `INTRODUCCION AL CRACKING CON XDBG POR ANGEL ZARZA/` | Cracking con x64dbg por Angel Zarza |
-| `OTROS/` | Material adicional |
-| `PASSWORD DE FILES/` | Passwords de los archivos |
-| `RADARE/` | Curso de Radare |
-| `RUBY POR TINCOPASAN/` | Ruby por Tincopasan |
-| `Teorias_Numeradas/` | Teorías numeradas del curso completo |
+| [`ANDROID REVERSING/`](ANDROID%20REVERSING/) | Reversing en Android |
+| [`C++ DESDE CERO/`](C%2B%2B%20DESDE%20CERO/) | Curso de C++ desde cero |
+| [`C Y REVERSING/`](C%20Y%20REVERSING/) | Curso de C y reversing |
+| [`CRACKING PARA BEBES POR IVINSON/`](CRACKING%20PARA%20BEBES%20POR%20IVINSON/) | Cracking para principiantes por Ivinson |
+| [`CURSO DE ARM EXPLOIT/`](CURSO%20DE%20ARM%20EXPLOIT/) | Exploiting en ARM |
+| [`CURSO DE YOUTUBE ARCHIVOS NECESARIOS/`](CURSO%20DE%20YOUTUBE%20ARCHIVOS%20NECESARIOS/) | Archivos para los videos de YouTube |
+| [`CURSO REVERSING 2020/`](CURSO%20REVERSING%202020/) | Curso de reversing 2020 |
+| [`CURSO VIEJO/`](CURSO%20VIEJO/) | Cursos anteriores |
+| [`DEBUGGERS PARA LOS NUEVOS WINDOWS 32 Y 64 BITS/`](DEBUGGERS%20PARA%20LOS%20NUEVOS%20WINDOWS%2032%20Y%2064%20BITS/) | Debuggers para Windows |
+| [`EJERCICIOS VIDEOS/`](EJERCICIOS%20VIDEOS/) | Ejercicios de los videos |
+| [`Ejercicios_solos/`](Ejercicios_solos/) | Ejercicios sueltos (ZIP pass: `a`) |
+| [`EXPLOITING/`](EXPLOITING/) | Exploiting |
+| [`EXPLOITING Y REVERSING USANDO HERRAMIENTAS FREE/`](EXPLOITING%20Y%20REVERSING%20USANDO%20HERRAMIENTAS%20FREE/) | Exploiting y reversing con herramientas gratuitas |
+| [`IDA DESDE CERO/`](IDA%20DESDE%20CERO/) | Curso de IDA Pro desde cero |
+| [`INTRODUCCION AL CRACKING CON OLLYDBG DESDE CERO/`](INTRODUCCION%20AL%20CRACKING%20CON%20OLLYDBG%20DESDE%20CERO/) | Cracking con OllyDbg |
+| [`INTRODUCCION AL CRACKING CON XDBG POR ANGEL ZARZA/`](INTRODUCCION%20AL%20CRACKING%20CON%20XDBG%20POR%20ANGEL%20ZARZA/) | Cracking con x64dbg por Angel Zarza |
+| [`OTROS/`](OTROS/) | Material adicional |
+| [`PASSWORD DE FILES/`](PASSWORD%20DE%20FILES/) | Passwords de los archivos |
+| [`RADARE/`](RADARE/) | Curso de Radare |
+| [`RUBY POR TINCOPASAN/`](RUBY%20POR%20TINCOPASAN/) | Ruby por Tincopasan |
+| [`Teorias_Numeradas/`](Teorias_Numeradas/) | Teorías numeradas del curso completo |
 
 ## Enlaces
 
