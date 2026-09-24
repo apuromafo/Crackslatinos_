@@ -1,4 +1,4 @@
-﻿# Página de Ricardo Narvaja y Crackslatinos
+# Página de Ricardo Narvaja y Crackslatinos
 
 ![Ricardo Narvaja](./WEB DE RICARDO_files/image003.jpg)
 
@@ -7,6 +7,37 @@
 - [VIDEO TUTES EN YOUTUBE](https://www.youtube.com/watch?v=viv-bdTpOpI&t=1s)
 - [INTRODUCCION AL CRACKING CON OLLYDBG DESDE CERO](../INTRODUCCION%20AL%20CRACKING%20CON%20OLLYDBG%20DESDE%20CERO/)
 - [CURSO DE C Y REVERSING](../C%20Y%20REVERSING/)
+
+## 📚 Índice completo de cursos del respaldo
+
+> Enlace directo a cada tema. Todos los cursos viven en este respaldo; el sitio original (https://ricardonarvaja.info/) ya no está disponible.
+
+| Curso | Carpeta en el respaldo |
+|---|---|
+| [Introducción al Reversing con IDA Pro desde cero](../IDA%20DESDE%20CERO/) | `IDA DESDE CERO/` |
+| [Introducción al Cracking con OllyDbg desde cero](../INTRODUCCION%20AL%20CRACKING%20CON%20OLLYDBG%20DESDE%20CERO/) | `INTRODUCCION AL CRACKING CON OLLYDBG DESDE CERO/` |
+| [Curso de C y Reversing](../C%20Y%20REVERSING/) | `C Y REVERSING/` |
+| [Curso de C++ desde cero](../C%2B%2B%20DESDE%20CERO/) | `C++ DESDE CERO/` |
+| [Exploiting y Reversing usando herramientas Free](../EXPLOITING%20Y%20REVERSING%20USANDO%20HERRAMIENTAS%20FREE/) | `EXPLOITING Y REVERSING USANDO HERRAMIENTAS FREE/` |
+| [Exploiting](../EXPLOITING/) | `EXPLOITING/` |
+| [Curso de ARM Exploit](../CURSO%20DE%20ARM%20EXPLOIT/) | `CURSO DE ARM EXPLOIT/` |
+| [Android Reversing](../ANDROID%20REVERSING/) | `ANDROID REVERSING/` |
+| [Introducción al Cracking con x64dbg por Angel Zarza](../INTRODUCCION%20AL%20CRACKING%20CON%20XDBG%20POR%20ANGEL%20ZARZA/) | `INTRODUCCION AL CRACKING CON XDBG POR ANGEL ZARZA/` |
+| [Curso de Radare](../RADARE/) | `RADARE/` |
+| [Ruby por Tincopasan](../RUBY%20POR%20TINCOPASAN/) | `RUBY POR TINCOPASAN/` |
+| [Cracking para bebés por Ivinson](../CRACKING%20PARA%20BEBES%20POR%20IVINSON/) | `CRACKING PARA BEBES POR IVINSON/` |
+| [Curso de Reversing 2020](../CURSO%20REVERSING%202020/) | `CURSO REVERSING 2020/` |
+| [Curso viejo](../CURSO%20VIEJO/) | `CURSO VIEJO/` |
+| [Curso de YouTube: archivos necesarios](../CURSO%20DE%20YOUTUBE%20ARCHIVOS%20NECESARIOS/) | `CURSO DE YOUTUBE ARCHIVOS NECESARIOS/` |
+| [Debuggers para los nuevos Windows 32 y 64 bits](../DEBUGGERS%20PARA%20LOS%20NUEVOS%20WINDOWS%2032%20Y%2064%20BITS/) | `DEBUGGERS PARA LOS NUEVOS WINDOWS 32 Y 64 BITS/` |
+| [Ejercicios de los videos](../EJERCICIOS%20VIDEOS/) | `EJERCICIOS VIDEOS/` |
+| [Ejercicios sueltos (ZIP con clave `a`)](../Ejercicios_solos/) | `Ejercicios_solos/` |
+| [Concursos y crackmes](../CONCURSOS_/) | `CONCURSOS_/` |
+| [Teorías numeradas del curso completo](../Teorias_Numeradas/) | `Teorias_Numeradas/` |
+| [Passwords de los archivos](../PASSWORD%20DE%20FILES/) | `PASSWORD DE FILES/` |
+| [Otros: material adicional](../OTROS/) | `OTROS/` |
+| [Página principal original (HTML)](WEB%20DE%20RICARDO.html) | `WEB DE RICARDO.html` |
+| [README general del respaldo](../README.md) | `README.md` |
 
 **NUEVO CURSO DE REVERSING Y CRACKING DESDE CERO EN YOUTUBE JUNTO A MI AMIGO SOLID.**
 **ACTUALIZADO A WINDOWS 10**
