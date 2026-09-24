@@ -9,8 +9,8 @@ Crackslatinos es una comunidad de más de 20 años de existencia. Ricardo Narvaj
 
 | Respaldo | Formato |
 |---|---|
-| [`RicardoNarvaja.info_/index.md`](RicardoNarvaja.info_/index.md) | Página principal del sitio en Markdown |
-| [`RicardoNarvaja.info_/WEB DE RICARDO.html`](RicardoNarvaja.info_/WEB%20DE%20RICARDO.html) | Página principal original (Word HTML) |
+| [`RicardoNarvaja.info/index.md`](RicardoNarvaja.info/index.md) | Página principal del sitio en Markdown |
+| [`RicardoNarvaja.info/WEB DE RICARDO.html`](RicardoNarvaja.info/WEB%20DE%20RICARDO.html) | Página principal original (Word HTML) |
 | `README.md` (este archivo) | Índice general del respaldo WEB |
 
 ## Cursos y contenido
